@@ -1042,6 +1042,7 @@ img{
 .main-slider h1{
 	font-size:60px;
 	color:#ffffff;
+	text-shadow: black 0.1em 0.1em 0.2em;
 	font-weight:700;
 	line-height:1.3em;
 }
@@ -1049,7 +1050,6 @@ img{
 .main-slider h3{
 	font-size:36px;
 	color:#ffffff;
-	text-shadow: black 0.1em 0.1em 0.2em;
 	font-weight:600;
 	line-height:1.4em;
 }
